@@ -4,7 +4,7 @@
 ) [![Mail Badge](https://img.shields.io/badge/-@lamia.gd_art-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/lamia.gd_art/) [![Mail Badge](https://img.shields.io/badge/-Guedoudj_LAMIA-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:loma.guedoudj@gmail.com)
 
 # BI-PROJECT
-## Conception et Réalisation d’une solution d’analyse décisionnelle (BI) pour l’activité transport de la branche GPL <br><br>
+## Design and implementation of a decision analysis solution (BI) for the transport activity of the LPG branch <br><br>
 ### What is NAFTAL? <br>
 #### Naftal is the principal company selling petroleum-based fuels for domestic consumption in Algeria; its gas stations are a familiar sight throughout the country. Founded in 1981 by government decree, it was responsible for refining and distribution until 1987. In 1998, it became a subsidiary of Sonatrach. It employs about 30,000 workers, and has about 2300 gas stations (as of 2017). <br> <br>
 ### What is the relationship between my project and this company?<br>
